@@ -4,7 +4,7 @@ Projeto desenvolvido para aprimorar e entender o funcionamento do framework Boot
 ---
 
 <h3>
-	<a href="https://augustocesartoporowicz.github.io/Spotify-clone/">Acessar a demonstração</a>
+	<a href="https://augustotwz.github.io/Spotify-clone/">Acessar a demonstração</a>
 </h3>
 
 ---
